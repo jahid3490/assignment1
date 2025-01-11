@@ -134,7 +134,48 @@ h1{
     height: 306;
     border-radius: 10px;
 
+
 }
-.top-news-3{
-    display: flex;
+.text-style{
+  
+    text-align: center;
 }
+.style-box{
+
+    list-style: none;
+    text-align: center;
+    border: 20px;
+    color: white;
+
+}
+.st-1{ 
+
+    background-color: #FFFFFF;
+    font-size: 30px;
+    
+}
+
+
+.st-2{ 
+
+    background-color: #C6E4D6;
+    font-size: 30px;
+    
+}
+.st-3{ 
+
+    background-color: #FFFFFF;
+    font-size: 30px;
+}
+.st-4{ 
+
+    background-color: #FFFFFF;
+    font-size: 30px;
+}
+    
+.last{
+    margin-left: 850px;
+    align-items: center;
+    background-color: #006A50;
+}
+    
