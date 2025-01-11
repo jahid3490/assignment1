@@ -1,7 +1,7 @@
 
 .header{
 
-    margin: 50px 50px 50px 50px;
+    margin: 10px 100px 10px 50px;
  
 border-radius: 20px;
    width: 1780px; 
@@ -9,6 +9,9 @@ border-radius: 20px;
    background-color: #C6E4D6; 
    justify-content: space-around;
 
+}
+.bold-text{
+    font-size: 60px;
 }
 
 /* nave style */
@@ -58,7 +61,10 @@ font-size: 20px;
 .section-discription{
     margin-left: 35px;
 }
-
+.high{
+    padding: 5px;
+    font-size: 20px;
+}
 
 .skils-container{
     
@@ -91,37 +97,39 @@ font-size: 20px;
     background-color: #F7EBCF;
   }
 .more-button-1{
+   
     background-color: #5490F5;
     margin-bottom: 3px;
     color: white;
 
 }
 .more-button-2{
-    
+text-align: end;
     background-color: #09A15C;
     
     color: white;
 
 }
 .more-button-3{
-    
+ 
     background-color: #FFC239;
     
     color: white;
 
 }
-.top-news{
+.top-news-2{
+    display: flex;
     margin-left: 20px;
 }
 h1{
     font-size: 30px;
     font-weight: 600;
 }
-.top-news-2{
+.top-news-3{
     display: flex;
 }
 .hot-news{
-    padding-left: 24px;
+    padding-left: 24px
 
 }
 .button-4{
@@ -178,4 +186,13 @@ h1{
     align-items: center;
     background-color: #006A50;
 }
-    
+    .sir-text{
+        padding: 15px 10px 20px 10px; 
+       background-image: url(quote-bg.png);
+       background-repeat: no-repeat; 
+       justify-content: flex-start;
+    }
+    .dr-sir{
+        padding: 0 0 0 40px;
+        justify-content: flex-end;
+    }
