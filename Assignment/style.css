@@ -1,0 +1,51 @@
+
+.header{
+
+    margin: 50px 50px 50px 50px;
+ 
+border-radius: 20px;
+   width: 1780px; 
+   height: 660px;
+   background-color: #C6E4D6; 
+
+}
+
+/* nave style */
+
+
+.nave-title{
+    font-size: 15px;
+    color: #635d5d;
+    padding: 15px 0px 0 70px;
+}
+/* banner style */
+.banner{
+    display: flex;
+    width: 622;
+    height: 222;
+   
+}
+.banner-containt{
+   margin-left: 20px;
+    font-size: 45px;
+    font-weight: 600;
+
+
+}
+
+.button-primary{
+   margin-left: 20px;
+   margin-top: 15px;
+    background-color:#006A50 ;
+    font-size: 13px;
+    padding: 40px 35px;
+    border: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.banner-profile-pic{
+    width:474px ;
+    height: 400;
+
+}
